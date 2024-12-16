@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Software Engineering student and 
 ### **Languages**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-- ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+- ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=for-the-badge&logo=fortran)
 - ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 
 ### **Version Control & Development Tools**
